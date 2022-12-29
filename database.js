@@ -1,2 +1,2 @@
-const db = require('./Valiant Database')
+const db = require('./crewDB')
 module.exports = db
